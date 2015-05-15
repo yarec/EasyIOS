@@ -7,7 +7,7 @@
 //
 
 #import "Scene.h"
-
+#import "FLKAutoLayout/FLKAutoLayout.h"
 
 @interface Scene ()
 

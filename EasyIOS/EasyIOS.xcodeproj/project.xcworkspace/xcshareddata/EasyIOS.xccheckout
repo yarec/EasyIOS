@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>49FBFD8B-EB4C-4034-B68E-F55E1D0D4455</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0CD960BCF7101852F43B0B42EE8DE096A3F0CE60</key>
+		<string>https://github.com/yarec/EasyIOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EasyIOS/EasyIOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0CD960BCF7101852F43B0B42EE8DE096A3F0CE60</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yarec/EasyIOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0CD960BCF7101852F43B0B42EE8DE096A3F0CE60</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0CD960BCF7101852F43B0B42EE8DE096A3F0CE60</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yarec:EasyIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

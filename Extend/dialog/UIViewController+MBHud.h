@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "MBProgressHUD.h"
+#import "MBProgresHUD/MBProgressHUD.h"
 @interface UIViewController (MBHud)
 -(void)loadHudInKeyWindow;
 -(void)loadHud:(UIView *)view;

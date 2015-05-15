@@ -7,6 +7,7 @@
 //
 
 #import "ImageTool.h"
+#import "EasyKit.h"
 #import<Accelerate/Accelerate.h>
 @implementation ImageTool
 

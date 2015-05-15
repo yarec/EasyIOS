@@ -1,5 +1,6 @@
 #import "EasyKit.h"
 #import <objc/runtime.h>
+#import "AFNetworking/AFNetworking.h"
 
 @implementation EasyKit
 

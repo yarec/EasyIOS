@@ -7,6 +7,9 @@
 //
 
 #import "PullHeader.h"
+#import "ReactiveCocoa/ReactiveCocoa.h"
+#import "UIView+EasyExtend.h"
+#import "FLKAutoLayout/FLKAutoLayout.h"
 
 @implementation PullHeader
 

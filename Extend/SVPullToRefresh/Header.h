@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SVPullToRefresh.h"
 
 @interface Header : UIView
 - (id)initWithScrollView:(UIScrollView *)scrollView;

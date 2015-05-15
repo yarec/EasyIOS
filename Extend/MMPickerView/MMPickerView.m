@@ -7,6 +7,7 @@
 //
 
 #import "MMPickerView.h"
+#import "NSArray+EasyExtend.h"
 
 NSString * const MMbackgroundColor = @"backgroundColor";
 NSString * const MMtextColor = @"textColor";

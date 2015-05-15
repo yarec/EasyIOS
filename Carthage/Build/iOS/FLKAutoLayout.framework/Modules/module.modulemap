@@ -1,0 +1,6 @@
+framework module FLKAutoLayout {
+  umbrella header "FLKAutoLayout.h"
+
+  export *
+  module * { export * }
+}

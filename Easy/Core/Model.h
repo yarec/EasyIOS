@@ -8,7 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import "NSDictionary+EasyExtend.h"
-#import "JSONModelLib.h"
+#import "MojoDB/MojoDB.h"
+
 @interface Model : JSONModel
 +(id)Model;
 -(void)loadModel;

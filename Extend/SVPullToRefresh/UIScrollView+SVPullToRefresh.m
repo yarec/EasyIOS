@@ -10,7 +10,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "UIScrollView+SVPullToRefresh.h"
 #import "PullHeader.h"
-
+#import "ReactiveCocoa/ReactiveCocoa.h"
 
 
 @interface SVPullToRefreshView ()

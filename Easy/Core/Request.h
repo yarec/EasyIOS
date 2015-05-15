@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "EasyKit.h"
-#import "AFHTTPRequestOperation.h"
+#import "AFNetworking/AFHTTPRequestOperation.h"
 
 extern NSString * const RequestStateSuccess;
 extern NSString * const RequestStateFailed;

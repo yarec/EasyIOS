@@ -10,7 +10,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "UIScrollView+SVInfiniteScrolling.h"
 #import "PullFooter.h"
-
+#import "ReactiveCocoa/ReactiveCocoa.h"
 
 
 @interface SVInfiniteScrollingView ()

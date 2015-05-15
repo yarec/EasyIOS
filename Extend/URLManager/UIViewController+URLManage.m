@@ -8,6 +8,7 @@
 
 #import "UIViewController+URLManage.h"
 #import <objc/runtime.h>
+#import "NSURL+EasyExtend.h"
 
 static char URLoriginUrl;
 static char URLpath;

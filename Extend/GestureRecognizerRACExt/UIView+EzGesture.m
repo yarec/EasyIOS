@@ -7,6 +7,7 @@
 //
 
 #import "UIView+EzGesture.h"
+#import "ReactiveCocoa/ReactiveCocoa.h"
 
 @implementation UIView (EzGesture)
 

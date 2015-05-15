@@ -8,6 +8,7 @@
 
 #import "UIViewController+MBHud.h"
 #import <objc/runtime.h>
+#import "FontIcon/IconFont.h"
 
 
 static char MBHud;

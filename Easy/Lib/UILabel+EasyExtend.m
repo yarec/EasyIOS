@@ -7,6 +7,7 @@
 //
 
 #import "UILabel+EasyExtend.h"
+#import "ReactiveCocoa/ReactiveCocoa.h"
 
 @implementation UILabel (EasyExtend)
 

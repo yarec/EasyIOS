@@ -1,0 +1,6 @@
+framework module GCDOC {
+  umbrella header "GCDOC.h"
+
+  export *
+  module * { export * }
+}

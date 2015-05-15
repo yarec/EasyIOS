@@ -25,6 +25,9 @@
 
 #import "UIScrollView+CoverView.h"
 #import <objc/runtime.h>
+#import "ReactiveCocoa/ReactiveCocoa.h"
+#import "UIView+EasyExtend.h"
+#import "FLKAutoLayout/FLKAutoLayout.h"
 @interface CoverView()
 @property (nonatomic, assign) CGRect rect;
 @end

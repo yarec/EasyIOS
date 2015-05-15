@@ -7,8 +7,9 @@
 //
 
 #import "Action.h"
-#import "RACEXTScope.h"
-#import "TMCache.h"
+#import "ReactiveCocoa/EXTScope.h"
+#import "TMCache/TMCache.h"
+#import "GCDOC/GCDQueue.h"
 
 @interface Action()
 @property(nonatomic,assign)BOOL cacheEnable;
@@ -138,7 +139,7 @@ DEF_SINGLETON(Action)
         @strongify(msg,self);
         if(_cacheEnable){
             [[TMCache sharedCache] setObject:jsonObject forKey:msg.cacheKey block:^(TMCache *cache, NSString *key, id object) {
-                EZLog(@"%@ has cached",url);
+//                EZLog(@"%@ has cached",url);
             }];
         }
         msg.output = jsonObject;
@@ -203,7 +204,7 @@ DEF_SINGLETON(Action)
         @strongify(msg,self);
         if([file count] == 0 && _cacheEnable){
             [[TMCache sharedCache] setObject:jsonObject forKey:msg.cacheKey block:^(TMCache *cache, NSString *key, id object) {
-                EZLog(@"%@ has cached",url);
+//                EZLog(@"%@ has cached",url);
             }];
         }
         msg.output = jsonObject;

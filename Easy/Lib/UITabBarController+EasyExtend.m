@@ -7,6 +7,7 @@
 //
 
 #import "UITabBarController+EasyExtend.h"
+#import "NSArray+EasyExtend.h"
 
 NSString *const UITabNormalTextColor = @"NormalTextColor";
 NSString *const UITabSelectedTextColor = @"SelectedTextColor";

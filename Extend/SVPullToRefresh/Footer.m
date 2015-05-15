@@ -7,6 +7,7 @@
 //
 
 #import "Footer.h"
+#import "SVPullToRefresh.h"
 
 @implementation Footer
 

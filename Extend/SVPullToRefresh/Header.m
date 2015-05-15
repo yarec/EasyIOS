@@ -7,6 +7,8 @@
 //
 
 #import "Header.h"
+#import "SVPullToRefresh.h"
+
 @implementation Header
 
 - (id)initWithScrollView:(UIScrollView *)scrollView{
