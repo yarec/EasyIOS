@@ -1,9 +1,9 @@
-#github "ReactiveCocoa/ReactiveCocoa"  ~> 2.4.7
-#github "yarec/FLKAutoLayout"
-#github "yarec/AFNetworking"
-#github "yarec/mojo-database"
-#github "yarec/MBProgressHUD"
-#github "yarec/UIActivityIndicator-for-SDWebImage"
-#github "yarec/FontIcon"
-#github "tumblr/TMCache"
+github "ReactiveCocoa/ReactiveCocoa"  ~> 2.4.7
+github "yarec/FLKAutoLayout"
+github "yarec/AFNetworking"
+github "yarec/mojo-database"
+github "yarec/MBProgressHUD"
+github "yarec/UIActivityIndicator-for-SDWebImage"
+github "yarec/FontIcon"
+github "tumblr/TMCache"
 github "yarec/gcdobjc"

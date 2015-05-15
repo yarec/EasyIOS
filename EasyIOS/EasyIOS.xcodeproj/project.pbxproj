@@ -984,6 +984,7 @@
 					"$(inherited)",
 					"/upg/carthage-libs/Carthage/Build/iOS",
 					"/Users/rt/vcs/ios/libs/yarec:EasyIOS/Carthage/Build/iOS",
+					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/EasyIOS-fgaetlyehuzixsheggfhgdujmrii/Build/Products/Debug-iphonesimulator",
 				);
 				INFOPLIST_FILE = EasyIOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -1007,6 +1008,7 @@
 					"$(inherited)",
 					"/upg/carthage-libs/Carthage/Build/iOS",
 					"/Users/rt/vcs/ios/libs/yarec:EasyIOS/Carthage/Build/iOS",
+					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/EasyIOS-fgaetlyehuzixsheggfhgdujmrii/Build/Products/Debug-iphonesimulator",
 				);
 				INFOPLIST_FILE = EasyIOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";

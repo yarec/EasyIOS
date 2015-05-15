@@ -1,6 +1,0 @@
-framework module MojoDB {
-  umbrella header "MojoDB.h"
-
-  export *
-  module * { export * }
-}
