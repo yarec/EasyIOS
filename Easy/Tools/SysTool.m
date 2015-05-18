@@ -11,6 +11,7 @@
 #include <dirent.h>
 #include <sys/socket.h>
 #include <sys/sysctl.h>
+#import <CommonCrypto/CommonDigest.h>
 
 @implementation SysTool
 + (SysTool *)sharedInstance

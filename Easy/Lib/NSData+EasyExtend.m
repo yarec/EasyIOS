@@ -6,6 +6,7 @@
 //
 
 #import "NSData+EasyExtend.h"
+#import <CommonCrypto/CommonDigest.h>
 
 @implementation NSData (EasyExtend)
 
