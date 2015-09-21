@@ -1,4 +1,4 @@
-github "ReactiveCocoa/ReactiveCocoa"  ~> 2.4.7
+#github "ReactiveCocoa/ReactiveCocoa"  ~> 2.4.7
 github "yarec/FLKAutoLayout"
 github "yarec/AFNetworking"
 github "yarec/mojo-database"

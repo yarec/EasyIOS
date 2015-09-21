@@ -137,7 +137,6 @@
 		73317E8B1B049371007C32B0 /* URLManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317E0C1B049371007C32B0 /* URLManager.m */; };
 		73317E8C1B049371007C32B0 /* URLNavigation.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317E0D1B049371007C32B0 /* URLNavigation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317E8D1B049371007C32B0 /* URLNavigation.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317E0E1B049371007C32B0 /* URLNavigation.m */; };
-		73317E931B049700007C32B0 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73317E921B049700007C32B0 /* ReactiveCocoa.framework */; };
 		73317ECF1B04AF22007C32B0 /* FLKAutoLayout.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73317ECE1B04AF22007C32B0 /* FLKAutoLayout.framework */; };
 		73317ED21B04B59F007C32B0 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73317ED11B04B59F007C32B0 /* AFNetworking.framework */; };
 		73317F391B04BF0D007C32B0 /* MojoDB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73317F371B04BB75007C32B0 /* MojoDB.framework */; };
@@ -292,7 +291,6 @@
 		73317E0C1B049371007C32B0 /* URLManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = URLManager.m; sourceTree = "<group>"; };
 		73317E0D1B049371007C32B0 /* URLNavigation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = URLNavigation.h; sourceTree = "<group>"; };
 		73317E0E1B049371007C32B0 /* URLNavigation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = URLNavigation.m; sourceTree = "<group>"; };
-		73317E921B049700007C32B0 /* ReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveCocoa.framework; path = ../Carthage/Build/iOS/ReactiveCocoa.framework; sourceTree = "<group>"; };
 		73317ECE1B04AF22007C32B0 /* FLKAutoLayout.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FLKAutoLayout.framework; path = ../Carthage/Build/iOS/FLKAutoLayout.framework; sourceTree = "<group>"; };
 		73317ED11B04B59F007C32B0 /* AFNetworking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AFNetworking.framework; path = ../Carthage/Build/iOS/AFNetworking.framework; sourceTree = "<group>"; };
 		73317F371B04BB75007C32B0 /* MojoDB.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MojoDB.framework; path = ../Carthage/Build/iOS/MojoDB.framework; sourceTree = "<group>"; };
@@ -317,7 +315,6 @@
 				73317F391B04BF0D007C32B0 /* MojoDB.framework in Frameworks */,
 				73317ED21B04B59F007C32B0 /* AFNetworking.framework in Frameworks */,
 				73317ECF1B04AF22007C32B0 /* FLKAutoLayout.framework in Frameworks */,
-				73317E931B049700007C32B0 /* ReactiveCocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -622,7 +619,6 @@
 				73317F371B04BB75007C32B0 /* MojoDB.framework */,
 				73317ED11B04B59F007C32B0 /* AFNetworking.framework */,
 				73317ECE1B04AF22007C32B0 /* FLKAutoLayout.framework */,
-				73317E921B049700007C32B0 /* ReactiveCocoa.framework */,
 			);
 			name = framework;
 			sourceTree = "<group>";
